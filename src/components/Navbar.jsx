@@ -17,7 +17,7 @@ function Navbar() {
                 </a>
                 {/* Dropdown list */}
                 <ul className="dropdown-menu">
-                  <li><a className="dropdown-item @@home1" href="index.html">Homepage</a></li>
+                  <li><a className="dropdown-item @@home1" href="index.html">Homepage 1</a></li>
                   <li><a className="dropdown-item" href="homepage-2.html">Homepage 2</a></li>
                   <li><a className="dropdown-item @@home3" href="homepage-3.html">Homepage 3</a></li>
                   <li className="dropdown dropdown-submenu dropright">
